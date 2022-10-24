@@ -9,9 +9,9 @@
 :ramen: <b>맛 평가</b> : 오늘 식단에 대해서 맛을 평가합니다.<br>
 
 ## 📌 Screen Shot
-![소개_01 (2)](https://user-images.githubusercontent.com/83231344/197462805-22bb5e0f-29be-4f05-9c1c-f7af92f1c1ba.png)
-![소개_02 1](https://user-images.githubusercontent.com/83231344/197462649-a482427a-1f6d-4205-8c3b-06f40eace884.png)
-![소개_03 (1)](https://user-images.githubusercontent.com/83231344/197462658-ad9c2bf7-68ce-4ddb-b5a7-8186f220e662.png)
+<img width="300px" height="530px" "https://user-images.githubusercontent.com/83231344/197462805-22bb5e0f-29be-4f05-9c1c-f7af92f1c1ba.png">
+<img width="300px" height="530px" "https://user-images.githubusercontent.com/83231344/197462649-a482427a-1f6d-4205-8c3b-06f40eace884.png">
+<img width="300px" height="530px" "https://user-images.githubusercontent.com/83231344/197462658-ad9c2bf7-68ce-4ddb-b5a7-8186f220e662.png">
 
 ## 📌 History
 ✔️ <b>2022년 10월 셋째 주 개발 시작</b><br>
