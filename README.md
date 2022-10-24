@@ -9,9 +9,11 @@
 :ramen: <b>맛 평가</b> : 오늘 식단에 대해서 맛을 평가합니다.<br>
 
 ## 📌 Screen Shot
-<img width="300px" height="530px" "https://user-images.githubusercontent.com/83231344/197462649-a482427a-1f6d-4205-8c3b-06f40eace884.png">
+<img width="400px" height="480px" src="https://user-images.githubusercontent.com/83231344/197461663-2edc0e22-a5b2-4884-84fb-b8f3026d811a.png">
 
-<img width="300px" height="530px" "https://user-images.githubusercontent.com/83231344/197462658-ad9c2bf7-68ce-4ddb-b5a7-8186f220e662.png">
+<img width="300px" height="530px" "https://user-images.githubusercontent.com/83231344/197462649-a482427a-1f6d-4205-8c3b-06f40eace884.png"></img>
+
+<img width="300px" height="530px" "https://user-images.githubusercontent.com/83231344/197462658-ad9c2bf7-68ce-4ddb-b5a7-8186f220e662.png"></img>
 
 ## 📌 History!
 
@@ -23,9 +25,13 @@
 ## 📌 Architecture
 <details>
   <summary>Server</summary>
-  
-  <summary>Android</summary>
-  
-  <summary>IOS</summary>
- 
 </details>
+
+<details>
+  <summary>Android</summary>
+</details>
+
+<details>
+  <summary>IOS</summary>
+ </details>
+
