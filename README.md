@@ -9,11 +9,11 @@
 :ramen: <b>맛 평가</b> : 오늘 식단에 대해서 맛을 평가합니다.<br>
 
 ## 📌 Screen Shot
-<img width="300px" height="530px" "https://user-images.githubusercontent.com/83231344/197464301-06966b61-326d-4196-8aea-2915fec95c3d.png">
+<img width="300px" height="530px" "https://user-images.githubusercontent.com/83231344/197464301-06966b61-326d-4196-8aea-2915fec95c3d.png"></img>
 
-<img width="300px" height="530px" "https://user-images.githubusercontent.com/83231344/197462649-a482427a-1f6d-4205-8c3b-06f40eace884.png">
+<img width="300px" height="530px" "https://user-images.githubusercontent.com/83231344/197462649-a482427a-1f6d-4205-8c3b-06f40eace884.png"></img>
 
-<img width="300px" height="530px" "https://user-images.githubusercontent.com/83231344/197462658-ad9c2bf7-68ce-4ddb-b5a7-8186f220e662.png">
+<img width="300px" height="530px" "https://user-images.githubusercontent.com/83231344/197462658-ad9c2bf7-68ce-4ddb-b5a7-8186f220e662.png"></img>
 
 ## 📌 History!
 
