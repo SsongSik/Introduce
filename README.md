@@ -10,11 +10,9 @@
 
 ## 📌 Screen Shot
 <p align="center">
-  <img width="300px" height="530px" src="https://user-images.githubusercontent.com/83231344/197464910-b536c6cf-4b32-4fe7-8b3a-5596ca36f6ba.png">
-
-  <img width="300px" height="530px" src="https://user-images.githubusercontent.com/83231344/197462649-a482427a-1f6d-4205-8c3b-06f40eace884.png">
-
-  <img width="300px" height="530px" src="https://user-images.githubusercontent.com/83231344/197462658-ad9c2bf7-68ce-4ddb-b5a7-8186f220e662.png">
+<img src="https://user-images.githubusercontent.com/83231344/197464910-b536c6cf-4b32-4fe7-8b3a-5596ca36f6ba.png" width="20%" height="30%">
+<img src="https://user-images.githubusercontent.com/83231344/197462649-a482427a-1f6d-4205-8c3b-06f40eace884.png" width="20%" height="30%">
+<img src="https://user-images.githubusercontent.com/83231344/197462658-ad9c2bf7-68ce-4ddb-b5a7-8186f220e662.png" width="20%" height="30%">
 </p>
 
 ## 📌 History
