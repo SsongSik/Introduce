@@ -17,7 +17,7 @@
   <img width="300px" height="530px" src="https://user-images.githubusercontent.com/83231344/197462658-ad9c2bf7-68ce-4ddb-b5a7-8186f220e662.png">
 </p>
 
-## 📌 History!
+## 📌 History
 
 ✔️ <b>2022년 10월 셋째 주 개발 시작</b><br>
 ✔️ <b>10월 셋째 주 기능 업데이트, 테스트 완료</b><br>
