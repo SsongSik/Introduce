@@ -10,10 +10,14 @@
 
 ## 📌 Screen Shot
 <p align="center">
-<img src="https://user-images.githubusercontent.com/83231344/197464910-b536c6cf-4b32-4fe7-8b3a-5596ca36f6ba.png" width="20%" height="30%">
-<img src="https://user-images.githubusercontent.com/83231344/197462649-a482427a-1f6d-4205-8c3b-06f40eace884.png" width="20%" height="30%">
-<img src="https://user-images.githubusercontent.com/83231344/197462658-ad9c2bf7-68ce-4ddb-b5a7-8186f220e662.png" width="20%" height="30%">
+<img src="https://user-images.githubusercontent.com/83231344/200797384-f4c5b57f-06e7-4c8b-95e7-3725db07f48c.png" width="20%" height="30%">
+<img src="https://user-images.githubusercontent.com/83231344/200797690-a4277918-8f4f-4061-92a8-0bf5383b2433.png" width="20%" height="30%">
+<img src="https://user-images.githubusercontent.com/83231344/200797713-c26f45df-8944-4de3-b174-8fa09e16f2e6.png" width="20%" height="30%">
+<img src="https://user-images.githubusercontent.com/83231344/200797734-93456f9c-7331-40d0-9684-6540123c56f2.png" width="20%" height="30%">
+<img src="https://user-images.githubusercontent.com/83231344/200797788-a01b6b77-0125-41de-98b0-64dfe9f95c4f.png" width="20%" height="30%">
 </p>
+
+
 
 ## 📌 History
 
