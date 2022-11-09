@@ -1,4 +1,4 @@
-<img width="400px" height="480px" src="https://user-images.githubusercontent.com/83231344/200801447-24d5ceee-171c-4287-979a-1553b5a78570.png">
+<img width="1920px" height="1080px" src="https://user-images.githubusercontent.com/83231344/200801447-24d5ceee-171c-4287-979a-1553b5a78570.png">
 
 
 # 명지대 학식은 명식이와 함께 👀
