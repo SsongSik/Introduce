@@ -32,6 +32,8 @@
 ## 📌 Architecture
 <details>
   <summary>Server</summary>
+  CICD
+  <img width="100%" height="45%" src="https://user-images.githubusercontent.com/53048655/201082000-34ff9e03-28ab-4b1f-bfc0-171c15e1133f.png">
 </details>
 
 <details>
