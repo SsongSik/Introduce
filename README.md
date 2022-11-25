@@ -41,19 +41,19 @@
   
 ## 기술 스택(Tech Skill)
 
-10
+
  | Library                                                   | Purpose                                                   |
-11
+
 | ------------------------------------------------------------ | ------------------------------------------------------- |
-12
+
 | [Android Jetpack]|  ViewModel, LiveData, Navigation, RecyclerView, Room,|
-13
+
 | [View Binding]| To more easily write code that interacts with views          |
-14
+
 | [Dagger Hilt] | To reduce the cost of building the initial DI environment         |
-15
+
 | [Retrofit2] | To server connection            |
-16
+
 | [OkHttp3]| To debugging in server connection |
 </details>
 
