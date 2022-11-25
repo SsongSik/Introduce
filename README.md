@@ -42,7 +42,7 @@
 ## 기술 스택(Tech Skill)
  | Category                                                   | Stack                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------- |
-| <h4>Architecture</h4> | MVVM        |
+| <span style='background-color : #fff5b1'>Architecture</span> | MVVM        |
 | Android Jetpack|  ViewModel, LiveData, Navigation, Room, Paging, View Binding |
 | Dependency Injection| Dagger Hilt       |
 | Networking | Retrofit2, OkHttp3           |
