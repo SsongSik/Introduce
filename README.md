@@ -43,11 +43,12 @@
  | Category                                                   | Stack                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------- |
 | **Architecture**| MVVM        |
-| **Android Jetpack**|  ViewModel, LiveData, Navigation, Room, Paging, View Binding |
+| **Android Jetpack**|  ViewModel, LiveData, Navigation, Room, Paging, View Binding, ViewPager2 |
 | **Dependency Injection**| Dagger Hilt       |
 | **Networking** | Retrofit2, OkHttp3           |
 | **Asynchronous**                 | Coroutine |
 | **Local DB**                 | Room, DataStore |
+| **Background**                 | Alarm Manager |
 </details>
 
 <details>
