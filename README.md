@@ -42,7 +42,7 @@
 ## 기술 스택(Tech Skill)
  | Library                                                   | Purpose                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------- |
-| [Android Jetpack] |  ViewModel, LiveData, Navigation, ViewPager2, RecyclerView, Fragment  |
+| <span style="color:red">Android Jetpack</span> |  ViewModel, LiveData, Navigation, ViewPager2, RecyclerView, Fragment  |
 | [View Binding] | To more easily write code that interacts with views          |
 | [Dagger Hilt]| To reduce the cost of building the initial DI environment        |
 | [Retrofit2] | To server connection            |
