@@ -40,15 +40,14 @@
   <summary>Android</summary>
   
 ## 기술 스택(Tech Skill)
- | Library                                                   | Purpose                                                   |
+ | Category                                                   | Stack                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------- |
-| <span style="color:#0000FF">Android Jetpack</span> |  ViewModel, LiveData, Navigation, ViewPager2, RecyclerView, Fragment  |
-| View Binding | To more easily write code that interacts with views          |
-| Dagger Hilt| To reduce the cost of building the initial DI environment        |
-| Retrofit2 | To server connection            |
-| OkHttp3                 | To debugging in server connection |
-| Firebase | Realtime DB for chatting service    |                                           | 
-
+| Architecture | MVVM        |
+| Android Jetpack|  ViewModel, LiveData, Navigation, Room, Paging, View Binding |
+| Dependency Injection| Dagger Hilt       |
+| Networking | Retrofit2, OkHttp3           |
+| Asynchronous                 | Coroutine |
+| Local DB                 | Room, DataStore |
 </details>
 
 <details>
