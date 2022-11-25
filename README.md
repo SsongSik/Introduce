@@ -48,7 +48,7 @@
 | **Networking** | Retrofit2, OkHttp3           |
 | **Asynchronous**                 | Coroutine |
 | **Local DB**                 | Room, DataStore |
-| **Background**                 | Alarm Manager |
+| **Background**                 | AlarmManager |
 </details>
 
 <details>
