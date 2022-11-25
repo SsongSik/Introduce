@@ -40,21 +40,15 @@
   <summary>Android</summary>
   
 ## 기술 스택(Tech Skill)
-
-
  | Library                                                   | Purpose                                                   |
-
 | ------------------------------------------------------------ | ------------------------------------------------------- |
-
-| [Android Jetpack]|  ViewModel, LiveData, Navigation, RecyclerView, Room,|
-
-| [View Binding]| To more easily write code that interacts with views          |
-
-| [Dagger Hilt] | To reduce the cost of building the initial DI environment         |
-
+| [Android Jetpack] |  ViewModel, LiveData, Navigation, ViewPager2, RecyclerView, Fragment  |
+| [View Binding] | To more easily write code that interacts with views          |
+| [Dagger Hilt]| To reduce the cost of building the initial DI environment        |
 | [Retrofit2] | To server connection            |
+| [OkHttp3]                  | To debugging in server connection |
+| [Firebase] | Realtime DB for chatting service    |                                           | 
 
-| [OkHttp3]| To debugging in server connection |
 </details>
 
 <details>
